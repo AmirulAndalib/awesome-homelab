@@ -19,7 +19,7 @@
   "dependencies": {
     "hosted-git-info": "^7.0.2",
     "markdown-table": "^3.0.3",
-    "yaml": "^2.4.5"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.0.0",
